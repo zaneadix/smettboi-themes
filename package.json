@@ -1,0 +1,21 @@
+{
+  "name": "smettboi-themes",
+  "displayName": "smettboi-themes",
+  "description": "themes for smettboi, by smettboi",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Bronzor",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bronzor.json"
+      }
+    ]
+  }
+}
