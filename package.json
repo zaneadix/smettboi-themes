@@ -17,5 +17,9 @@
         "path": "./themes/bronzor.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zaneadix/smettboi-themes.git"
   }
 }
