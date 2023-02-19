@@ -1,0 +1,24 @@
+{
+  "name": "smettboi-themes",
+  "displayName": "smettboi-themes",
+  "description": "",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "smettboi-light",
+        "uiTheme": "vs",
+        "path": "./themes/smettboi-light-color-theme.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "prettier": "^2.8.3"
+  }
+}

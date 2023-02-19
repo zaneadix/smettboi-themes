@@ -1,0 +1,10 @@
+{
+  "name": "smettboi-dark",
+  "colors": {
+    "editor.background": "#202020",
+    "editor.foreground": "#ABABAB",
+    "activityBarBadge.background": "#007acc",
+    "sideBarTitle.foreground": "#bbbbbb"
+  },
+  "tokenColors": []
+}
