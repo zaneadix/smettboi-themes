@@ -6,8 +6,9 @@
     "activityBarBadge.background": "#E8A992",
     "activityBarBadge.foreground": "#000",
 
-    "button.background": "#195D47",
+    "button.background": "#1B6952",
     "button.foreground": "#EBECF0",
+    "button.hoverBackground": "#195D47",
 
     //commandCenter
 
@@ -54,6 +55,11 @@
     "gitDecoration.stageModifiedResourceForeground": "#0014CC",
     "gitDecoration.untrackedResourceForeground": "#8A3E00",
 
+    "diffEditor.insertedLineBackground": "#B9D5C3",
+    "diffEditor.insertedTextBackground": "#67A882",
+    "diffEditor.removedLineBackground": "#FFC7C7",
+    "diffEditor.removedTextBackground": "#FF8080",
+
     "gitlens.trailingLineForegroundColor": "#8C8CAB",
 
     "list.activeSelectionBackground": "#F1F1F4",
@@ -64,7 +70,7 @@
     "list.hoverBackground": "#F1F1F4",
     "list.errorForeground": "#990000",
 
-    "textLink.foreground": "#006627",
+    "textLink.foreground": "#1B6952",
     "textLink.activeForeground": "#005721",
     "editorLink.activeForeground": "#005721",
 
